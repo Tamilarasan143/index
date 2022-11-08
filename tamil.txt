@@ -1,0 +1,4 @@
+git clone https://github.com/Tamilarasan143/index.git
+git pull
+yes changes
+git push
