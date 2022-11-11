@@ -1,0 +1,29 @@
+
+const employee1: { Name: string, Salary: number, Age: number } = {
+  Name: "Tamilarasan",
+  Salary: 20000,
+  Age: 25
+};
+const employee2: { Name: string, Salary: number, Age: number } = {
+  Name: "Narendran",
+  Salary: 35000,
+  Age: 27
+};
+const employee3: { Name: string, Salary: number, Age: number } = {
+  Name: "Harsha",
+  Salary: 36000,
+  Age: 28
+};
+const employee4: { Name: string, Salary: number, Age: number } = {
+  Name: "Bala",
+  Salary: 15000,
+  Age: 35
+};
+const employee5: { Name: string, Salary: number, Age: number } = {
+  Name: "Basker",
+  Salary: 50000,
+  Age: 32
+};
+
+
+console.log(employee2);
